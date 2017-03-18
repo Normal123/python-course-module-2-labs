@@ -2,7 +2,7 @@
 
 ####Description
 Here is its solution code:
- *solution_2_5.py*
+ *solution_2_7.py*
 ```python
 
 Write the code to do following: 
